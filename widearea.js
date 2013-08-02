@@ -5,7 +5,7 @@
  *
  * Copyright (C) 2013 usabli.ca - By Afshin Mehrabani (@afshinmeh)
  */
-
+//some change
 (function (root, factory) {
   if (typeof exports === 'object') {
     // CommonJS
